@@ -23,4 +23,8 @@ finally:
     if 'cursor' in locals():
         cursor.close()
     if 'db_connection' in locals():
+<<<<<<< HEAD
         db_connection.close()
+=======
+        db_connection.close()
+>>>>>>> cfc6de7699ca227fe644502c8a690c3c64f73f1c
